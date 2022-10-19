@@ -47,9 +47,10 @@
      //glRotatef(_angle,0.0f, 1.0f, 0.0f);
       glColor3f(1.1f, 1.1f, 1.1f);
      glBegin(GL_QUADS);
+
+     //E1E121036_NIRWANA
      //front depan atas
      glColor3f(5.1f, 5.1f, 1.1f);
-     //glNormal3f(-1.0f, 0.0f, 0.0f);
      glVertex3f(-0.9f, 0.2f, -1.8f);
      glVertex3f(0.9f, 0.2f, -1.8f);
      glVertex3f(0.9f, 3.5f, -1.8f);
